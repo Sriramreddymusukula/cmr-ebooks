@@ -1,0 +1,23 @@
+
+body {
+  background: url('https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=1920&q=80') no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.overlay {
+  background: rgba(0, 0, 0, 0.6);
+  min-height: 100vh;
+  padding: 20px;
+}
+.navbar-brand img {
+  height: 50px;
+}
+.card {
+  border-radius: 1rem;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+}
+footer {
+  text-align: center;
+  color: #ddd;
+  margin-top: 20px;
+}
